@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "cff-explorer": {
+      "command": "python",
+      "args": [
+        "C:/path/to/cff-explorer-mcp/server.py"
+      ],
+      "env": {
+        "CFF_EXPLORER_PATH": "C:\\Program Files\\Explorer Suite\\CFF Explorer.exe"
+      }
+    }
+  }
+}
